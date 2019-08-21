@@ -1,0 +1,22 @@
+{
+    "name": "mobx-source-analysis",
+    "version": "1.0.0",
+    "description": "mobx 源码分析，基于 4.13.0 版本",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "start": "vuepress dev docs",
+        "build": "vuepress build docs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/G-Grant/mobx-source-analysis.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/G-Grant/mobx-source-analysis/issues"
+    },
+    "homepage": "https://github.com/G-Grant/mobx-source-analysis#readme"
+}

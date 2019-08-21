@@ -1,2 +1,3 @@
-# mobx-source-analysis
-基于 4.13.0 版本
+# Mobx 源码分析
+
+基于 **4.13.0** 版本
