@@ -12,3 +12,4 @@
 - [Mobx 源码分析 - shallowBox、box、ObservableValue](./docs/20190822.md)
 - [Mobx 源码分析 - autorun](./docs/20190825.md)
 - [Mobx 源码分析 - 第一阶段汇总](./docs/20190827.md)
+- [Mobx 源码分析 - computed](./docs/20190902.md)
