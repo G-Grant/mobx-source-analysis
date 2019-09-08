@@ -4,7 +4,9 @@
     "description": "mobx 源码分析，基于 4.13.0 版本",
     "main": "index.js",
     "dependencies": {},
-    "devDependencies": {},
+    "devDependencies": {
+        "vuepress": "^1.0.4"
+    },
     "scripts": {
         "start": "vuepress dev docs",
         "build": "node ./builds/addComponents.js && vuepress build docs && node ./builds/delComponents.js"
