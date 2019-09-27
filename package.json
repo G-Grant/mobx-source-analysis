@@ -5,6 +5,10 @@
     "main": "index.js",
     "dependencies": {},
     "devDependencies": {
+        "@vuepress/plugin-active-header-links": "^1.1.0",
+        "@vuepress/plugin-back-to-top": "^1.1.0",
+        "@vuepress/plugin-medium-zoom": "^1.1.0",
+        "@vuepress/plugin-nprogress": "^1.1.0",
         "vuepress": "^1.0.4"
     },
     "scripts": {
