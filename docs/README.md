@@ -11,4 +11,9 @@
 - [Mobx 源码分析 - autorun](./20190825.md)
 - [Mobx 源码分析 - 第一阶段汇总](./20190827.md)
 - [Mobx 源码分析 - computed](./20190902.md)
-- [Mobx 源码分析 - array](./20190930.md)
+- [Mobx 源码分析 - array](./20191013.md)
+
+## 扩展阅读
+
+- [深入理解Mobx](https://juejin.im/post/5c815ebf5188257ded10cec7)
+- [MobX 背后的基础原理](https://juejin.im/post/5ae808b76fb9a07aad174f5e)
